@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "regions": ["gru1"],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://newshioya.fun/$1"
+    }
+  ]
+}
